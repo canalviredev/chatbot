@@ -1,0 +1,28 @@
+#inicio do código
+
+print ('Olá, Humano') #você pode alterar essa mensagem de boas vindas para qualquer outra.
+
+nome = input('Qual é o seu nome?') #Aqui é onde vai perguntar o nome da pessoa
+
+print ('Prazer em te conhecer,', nome) #aqui é onde vai aparecer o nome da pessoa
+
+print ('Eu queria saber mais uma coisa sobre você') #Você pode mudar para qualquer outra pergunta
+
+idade = input('Qual é a sua idade?') #e qualquer outra resposta.
+
+print ('Nossa!', idade) #essa é onde vai aparecer a idade que a pessoa escolheu
+
+print ('É uma ótima idade') #resposta qualquer para a idade
+
+print ('Sabe... Eu amo filmes...') 
+
+filme = input('Qual é o seu filme favorito?')
+
+print ('Nossa!', filme)
+
+print ('Esse filme é muito legal!')
+
+#Agora é só ir adicionando perguntas e respostas assim como você aprendeu no vídeo e criar seu chatbot
+#Se for utilizar, deixe os créditos para meu canal em algum lugar.
+#VireDev o canal Brasileiro no youtube que te ensina sobre programação em Python.
+
